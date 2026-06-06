@@ -1,0 +1,20 @@
+{
+  "name": "boombignose-plugins",
+  "owner": {
+    "name": "Boom-Vitt"
+  },
+  "description": "Boombignose plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "ai-news-writer",
+      "source": "./plugins/ai-news-writer",
+      "description": "เขียนข่าว AI/เทคโนโลยีแบบมืออาชีพ โครงสร้างพีระมิดหัวกลับ รองรับไทย/อังกฤษ — Write professional AI & tech news in Thai or English.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Boom-Vitt"
+      },
+      "category": "writing",
+      "keywords": ["news", "ai", "tech", "journalism", "thai", "writing"]
+    }
+  ]
+}

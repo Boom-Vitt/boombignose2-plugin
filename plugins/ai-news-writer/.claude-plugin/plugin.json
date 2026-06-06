@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ai-news-writer",
+  "displayName": "AI News Writer",
+  "version": "0.1.0",
+  "description": "เขียนข่าว AI/เทคโนโลยีแบบมืออาชีพ โครงสร้างพีระมิดหัวกลับ รองรับไทย/อังกฤษ — Write professional AI & tech news in Thai or English.",
+  "author": {
+    "name": "Boom-Vitt",
+    "url": "https://github.com/Boom-Vitt"
+  },
+  "homepage": "https://github.com/Boom-Vitt/boombignose2-plugin",
+  "repository": "https://github.com/Boom-Vitt/boombignose2-plugin",
+  "license": "MIT",
+  "keywords": ["news", "journalism", "ai-news", "tech-news", "writing", "thai"]
+}
